@@ -13,6 +13,7 @@ Encoder Representations from Transformers): MINI BERT and SMALL BERT. We evaluat
 We compare the models' performances by obtaining their accuracy, their average training time and their loss.
  
 We used the SILICONE benchmark that be found in the dataset library from HuggingFace at https://huggingface.co/datasets/silicone
+
 We use BERT through the pytorch implementation provided by the HuggingFace Transformers library. The release is available at https://github.com/google-research/bert
 
 Our repository is organised into two main folders:
